@@ -1,0 +1,25 @@
+{
+  "name": "sttemplate",
+  "description": "Starter template with gulp and bootstrap",
+  "authors": [
+    "maskom"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "gulp",
+    "bootstrap",
+    "template"
+  ],
+  "homepage": "https://github.com/maskom/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "git://github.com/twbs/bootstrap.git#v4.0.0-alpha.4"
+  }
+}
