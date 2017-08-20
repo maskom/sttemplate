@@ -20,15 +20,6 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "git://github.com/twbs/bootstrap.git#v4.0.0-alpha.4",
-    "font-awesome": "^4.7.0"
-  },
-  "overrides":{
-    "font-awesome": {
-      "main": [
-        "./scss/font-awesome.scss",
-        "./fonts/*"
-      ]
-    }
+    "jquery": "^3.2.1"
   }
 }
